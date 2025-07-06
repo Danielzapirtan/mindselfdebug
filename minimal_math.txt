@@ -11,4 +11,10 @@ Perfect riguros și fără să ne bazăm pe nimic, obținem:
 
 La început, ne aducem aminte de prima interiorizare a morții, când aveam trei ani: trecerea în neființă (ajungem să aparținem mulțimii vide).
 
-Pornim de la neant total (nu există nimic și nimeni și nu a existat niciodată
+Pornim de la neant total (nu există nimic și nimeni și nu a existat niciodată și nici cine să observe că nu există), luăm acest nimic ca un tot unitar și obținem mulțimea vidă.
+
+Apoi pentru orice mulțime x și orice mulțime y deja existente, astfel încât y nu aparține lui x,  construim mental reuniunea dintre x și mulțimea formată din y, dar nu suntem obligați să procedăm așa. Doar în cazurile în care considerăm.
+Intuitiv, în pseudoC, revine la x | (1 << y). Astfel, reprezentăm binar mulțimile finite, identificându-le cu numere naturale acceptate în ultrafinitism.
+
+Dacă nu am înțeles o teorie științifică, nu suntem obligați să o acceptăm. Și nici dacă am înțeles-o. Și nici dacă a fost dovedită riguros. Respingem principiul rațiunii suficiente. Astfel, dacă cineva arată că concluzia Q rezultă dintr-o ipoteză adevărată P, putem în mod voluntar să nu acceptăm Q, chiar dacă este adevărată.
+Sau dacă ne-am lăsat convinși că Q, ulterior putem să ne răzgândim și să ne convingem că de fapt nu știm că Q (sau nu suntem de acord cu Q) și derivăm logic baza noastră cognitivă în raport cu Q.
