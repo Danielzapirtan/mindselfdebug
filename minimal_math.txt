@@ -1,0 +1,14 @@
+În autodepanarea propriei minți, avem nevoie de evitarea erorilor de raționament, paradoxurilor și a (propagării) erorii de aproximare.
+
+Instrumentul actual este matematica minimală (inspirată din filosofia ultrafinitistă).
+
+Respingem metoda axiomatică.
+
+Perfect riguros și fără să ne bazăm pe nimic, obținem:
+- există ceva mai degrabă decât nu ar exista nimic, deci respingem nihilismul;
+- cunoașterea (chiar limitată) este posibilă - știm o mulțime de lucruri, deci respingem agnosticismul;
+- utilizând matematica minimală, putem modela, cunoaște și stăpâni structuri informaționale de complexitate similară internetului.
+
+La început, ne aducem aminte de prima interiorizare a morții, când aveam trei ani: trecerea în neființă (ajungem să aparținem mulțimii vide).
+
+Pornim de la neant total (nu există nimic și nimeni și nu a existat niciodată
